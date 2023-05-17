@@ -11,7 +11,7 @@ Given the head of a linked list with even length, return the maximum twin sum of
  
 
 Example 1:
-[E-1](https://assets.leetcode.com/uploads/2021/12/03/eg1drawio.png)
+![Example-1](https://assets.leetcode.com/uploads/2021/12/03/eg1drawio.png)
 Input: head = [5,4,2,1]
 Output: 6
 Explanation:
